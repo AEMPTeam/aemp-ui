@@ -6,7 +6,7 @@
 					<image :src="thumb" class="list-item__icon-img" :class="['list--'+thumbSize]" />
 				</view>
 				<view v-else-if="showExtraIcon" class="list-item__icon">
-					<aemp-icons :color="extraIcon.color" :size="extraIcon.size" :type="extraIcon.type" class="uni-icon-wrapper" />
+					<aemp-icons :color="extraIcon.color" :size="extraIcon.size" :type="extraIcon.type" class="icon-wrapper" />
 				</view>
 				<view class="list-item__content">
 					<slot />

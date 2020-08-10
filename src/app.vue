@@ -6,6 +6,7 @@
             "pages/badge/badge",
             "pages/calendar/calendar",
             "pages/card/card",
+            "pages/grid/grid",
             "pages/countdown/countdown",
             "pages/drawer/drawer",
             "pages/icons/icons",
@@ -22,12 +23,14 @@
             "pages/steps/steps",
             "pages/swiper-dot/swiper-dot",
             "pages/nav-bar/nav-bar",
+            "pages/tabbar/tabbar",
             "pages/combox/combox",
             "pages/payment-password/payment-password",
             "pages/popup/popup",
             "pages/load-more/load-more",
             "pages/notice-bar/notice-bar",
-            "pages/result-page/result-page"
+            "pages/result-page/result-page",
+            "pages/ucharts/ucharts"
         ],
         "permission": {
           "scope.userLocation": {

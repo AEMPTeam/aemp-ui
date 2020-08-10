@@ -93,7 +93,8 @@
             open: false,
             pages: [
               { name: "List 列表", path:"/pages/list/list" },
-              { name: "Card 卡片", path:"/pages/card/card" }
+              { name: "Card 卡片", path:"/pages/card/card" },
+              { name: "Grid 栅格布局", path:"/pages/grid/grid" }
               ]
           },
           {
@@ -104,7 +105,8 @@
               { name: "Drawer 抽屉", path: "/pages/drawer/drawer" },
               { name: "IndexedList 索引列表", path: "/pages/indexed-list/indexed-list" },
               { name: "SegmentedControl 分段器", path: "/pages/segmented-control/segmented-control" },
-              { name: "NavBar 导航栏", path: "/pages/nav-bar/nav-bar" }
+              { name: "NavBar 导航栏", path: "/pages/nav-bar/nav-bar" },
+               { name: "Tabbar 标签栏", path: "/pages/tabbar/tabbar" }
             ]
           },
           {
@@ -124,6 +126,7 @@
             pages: [
                 { name: "支付密码", path: "/pages/payment-password/payment-password" },
                 { name: "结果页", path: "/pages/result-page/result-page" },
+                { name: "图表", path: "/pages/ucharts/ucharts" },
               ]
           }
         ]
